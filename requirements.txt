@@ -1,0 +1,16 @@
+# Data processing
+numpy
+pandas
+
+# Data visualization
+matplotlib
+
+# Machine learning
+scikit-learn
+
+# Molecular chemistry and fingerprints
+rdkit
+
+# Jupyter notebook support
+jupyter
+ipykernel
